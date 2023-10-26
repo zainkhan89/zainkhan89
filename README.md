@@ -1,7 +1,7 @@
 
 ## Short Biography :black_nib:
 
-Let me introduce myself, I'm **Zain Ul Abideen Khan:male_sign:** a Website Developer (mostly as a Front-End Developer) with 3+ years of experience in developing web-based applications. Started my career at the age of 15 but went deep into learning when I was in high school. Born and raised in Pemalang (Central Java, Indonesian), except during college education where sometimes I have to go out of town. Playing games very often, especially if there is a lot of free time either through console, personal computer, laptop, and even smartphone. If I'm bored, then just take a look for an alternative, which is watching anime.
+Let me introduce myself, I'm **Zain Ul Abideen Khan:male_sign:** a Website Developer (mostly as a Front-End Developer) with 3+ years of experience in developing web-based applications. Started my career at the age of 15 but went deep into learning when I was in high school. Born and raised in Lahore, except during college education where sometimes I have to go out of town. Playing games very often, especially if there is a lot of free time either through console, personal computer, laptop, and even smartphone. If I'm bored, then just take a look for an alternative, which is watching anime.
 
 ---
 
